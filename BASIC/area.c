@@ -15,7 +15,7 @@ int main()
  *  variables -- names which are used to hold values
  *          variables can hold only one value at a time
  *          but they can have multiple values throughout the program
- *  * data types: int char float double
+ *   data types: int char float double
  *
  * Syntax:      data_type variable_name ;  --variable declaration
  *
