@@ -16,7 +16,7 @@ int main()
 
     }
     
-        printf("\nenter digits=%d",count);
-        printf("\naddition of digits=%d",add);
+        printf("\nNumber of digits=%d\n",count);
+        printf("Addition of digits=%d\n",add);
 
 }

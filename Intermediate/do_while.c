@@ -1,15 +1,23 @@
 #include<stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
-    int i=1, n, prod;
+    int n;int a=n;
+    int i=1;
     printf("\nEnter any number");
     scanf("%d",&n);
-    do
-    {
-        prod = n*i;
-        printf("\n%d",prod);
+    do{
+        a=n*i;
+        printf("\n%d*%d=%d",n,i,a);
         i++;
-    } while(i<=10);
+    }while(i<=10);
+
+    // while (i<=10)
+    // {
+    //     a=n*i;
+    //     printf("\n %d * %d = %d ",n,i,a);
+    //     i++;   
+    // }
+    
 
     return 0;
 }
