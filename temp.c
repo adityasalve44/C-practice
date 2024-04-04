@@ -1,16 +1,3 @@
-#include <stdio.h>
-int main()
-{
-    int length;
-    int area;
-    printf("enter length");
-    scanf("%d",&length);
-    area=length*length;
-    printf("area%d",area);
-    return 0;
-}
-
-
 //65 0100 0001->41
 //001 000 001-->101
 //allocation--> memory reserve  
