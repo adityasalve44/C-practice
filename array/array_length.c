@@ -2,13 +2,13 @@
 int main()
 {
     int a[10];
-    int len = sizeof(a) / sizeof(int);
+    int len = sizeof(a) / sizeof(int);//to find out length of an array if not given
+
 
     printf("enter a values of a[]");
     for (int i = 0; i < len; i++)
     {
         scanf("%d",&a[i]);
-        
     }
     for (int i = 0; i < len; i++)
     {
@@ -16,12 +16,3 @@ int main()
     }
     return 0;
 }
-
-// operator
-//elements
-//data_type-- 
-//length = 100
-//time and space complexity
-
-//          sizeof(arr) / sizeof(int)= 10
-

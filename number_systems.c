@@ -26,18 +26,12 @@
  * F->1111
 */
 
-
-/**
- * 0101
- * 0110
- * 0001
-*/
 /**
  * Programming Languages:C,C++,JAVA.
  * Low Level Languages:-->
  *      Assembly Programming: mnemonics -- mov, add, sub
  * High Level Languages:-->
- * 1.2khz -- 4.4 Ghz==>
+ *  JAVA,Python, C++, Golang
  * 
  * 
  * 8 bit = 1 byte

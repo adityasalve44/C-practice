@@ -13,10 +13,9 @@ int main()
         add+=last;
         a=a/10;
         count++;
-
     }
     
-        printf("\nNumber of digits=%d\n",count);
-        printf("Addition of digits=%d\n",add);
+    printf("\nNumber of digits=%d\n",count);
+    printf("Addition of digits=%d\n",add);
 
 }

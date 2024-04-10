@@ -5,8 +5,6 @@ int main()
     return 0;
 }
 
-
-
 /*
  * # -- preprocessor -->
  * #include -- preprocessor directive --> use to include external files

@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int a=111;  //global
+int a=11;  //global
 void func();
 
 int main()

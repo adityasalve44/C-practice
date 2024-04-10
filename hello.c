@@ -27,5 +27,5 @@ int main()//parentheses
 /**
  * < >  angular Brackets
  * { } -->Block --> Curly Brackets
- * ( ) --> Parentheses -->Function brackets-->Open and Closing brackets
+ * ( ) --> Parentheses -->Function brackets
 */

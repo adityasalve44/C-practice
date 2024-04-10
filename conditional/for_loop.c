@@ -13,20 +13,7 @@ int main()
     return 0;
 }
 
-/**
- * for(initialization; condition; incr/decr)
- * {
- *     initialization--> variable --> traversing
- *     condition  --> limit break
- * }
-*/
-
-
-
-
-
-
-
+//factorial using goto statement
 
 /* #include<stdio.h>
 int main()
@@ -42,3 +29,29 @@ int main()
     printf("\nFactorial :%d",factorial);
     return 0;
 } */
+
+/**
+ * for(initialization; condition; incr/decr)
+ * {
+ *     //statements;
+ * }
+*/
+
+
+/**
+ * Steps in executing for loop:
+ * 1. Initialization
+ * 2. Condition 
+ *  2.a.If true-->Execute Statement/s
+ *  2.b.If false-->Out of loop/terminate loop
+ * 3.Incr/Decr
+ * 4.repeat from step 2
+*/
+
+
+
+
+
+
+
+
