@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()//parentheses
 { 
-  printf("hello shubham");
+  printf("hello Aditya");
   return 0;
 }
 
