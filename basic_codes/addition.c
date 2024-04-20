@@ -1,14 +1,16 @@
-#include <stdio.h>
-int main(int a, int b)
+
+
+#include<stdio.h>
+int main ()
 {
-    int sum;
-    printf("\nEnter two values:");
-    scanf("%d %d", &a, &b);
-    printf("a=%d b=%d", a, b);
-    sum = a + b;
-    printf("\nAddition:%d",sum);
+    int a, b;
+    printf("Enter the value");
+    scanf("%d %d", &a,&b);
+    int add=a+b;
+    printf("\n%d",add);
     return 0;
 }
+
 
 /**
  * Operators:
@@ -22,3 +24,10 @@ int main(int a, int b)
  *
  */
 // scanf("type_specifier1 type_specifier2 type_specifier3 ...type_specifierN",variable_name1,variable_name2,variable_name3,..variable_nameN);
+
+
+// 4byte - 32bit=
+
+// 128 64 32 16 8 4 2 1 =255
+// 1 0 1 0 1 1 0 1
+// 4294967295

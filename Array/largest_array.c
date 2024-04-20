@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
     int largest=0;
     int smallest=0;
