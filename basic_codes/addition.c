@@ -8,6 +8,7 @@ int main ()
     scanf("%d %d", &a,&b);
     int add=a+b;
     printf("\n%d",add);
+    printf("\naddress of a=%p",&a);
     return 0;
 }
 
