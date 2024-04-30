@@ -1,16 +1,15 @@
-
-
 #include<stdio.h>
 int main ()
 {
     int a, b;
+    int add;
     printf("Enter the value");
     scanf("%d %d", &a,&b);
-    int add=a+b;
+    add=a+b;
     printf("\n%d",add);
-    printf("\naddress of a=%p",&a);
     return 0;
 }
+
 
 
 /**

@@ -1,17 +1,13 @@
-#include<stdio.h>
-
-int a=11;  //global
-void func();
-
-int main()
+#include <stdio.h>
+int addition(int , int);
+int main(int sum)
 {
-    int n=10;//local declaration
-    printf("%d\n",a);
-    func();
+    sum= addition(10,20);
+    printf("\nAddition:%d", sum);
     return 0;
 }
-void func()
+
+int addition(int x, int y)
 {
-    int c;//local
-    printf("%d\n",a);
+    return x+y;
 }

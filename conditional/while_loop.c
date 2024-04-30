@@ -14,8 +14,22 @@ int main()
         a=a/10;
         count++;
     }
-    
+
     printf("\nNumber of digits=%d\n",count);
     printf("Addition of digits=%d\n",add);
 
 }
+
+// Loops : for, while , do _while
+/**
+ * for(initialization;condition;incr/decr){
+ * //statements}
+ */
+/**
+ * while(condition){//Statements}
+ *
+ */
+/**
+ * do {//statements}
+ * while(condition);
+ */
